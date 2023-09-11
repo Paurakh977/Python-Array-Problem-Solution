@@ -1,6 +1,6 @@
-# You are give a list [a,b,c,d,e,f]
+# You are give a list [a,b,c,d,e,f,g]
 # you have to sort in such a way that 1st last last term of the list come alternatively
-# ie: [a,f,b,e,c,d]
+# ie: [a,g,b,f,c,e,d]
 
 def give_me_your_list(list_):
     print(f"Your given list {list_}")
